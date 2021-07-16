@@ -1,0 +1,14 @@
+.btn-group{
+  position: absolute;
+  right: 25px;
+  top:10px;
+}
+.v-card__title{
+  padding: 10px;
+  font-weight: normal;
+  font-size: 16px;
+}
+.v-list-item__action:first-child,
+.v-list-item__icon:first-child{
+  margin-right: 15px !important;
+}
